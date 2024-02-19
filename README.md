@@ -23,12 +23,14 @@ import {bundle} from '@putout/bundler';
 console.log(bundle(CWD, entry, filesystem));
 ```
 
-## Convert ESM to CommonJS
+## Internals
+
+### Convert ESM to CommonJS
 
 To Simplify things up all files converted to CommonJS first.
 Let's suppose none of them use top-level await to get things simpler.
 
-## Parse filenames
+### Parse filenames
 
 Traverse all files starting from `entry` and get all filenames.
 
@@ -38,7 +40,7 @@ Traverse all files starting from `entry` and get all filenames.
 - [`resolve-require`](https://putout.cloudcmd.io/#/gist/833539f66cb238fcc3b6ca6cee61ef9e/79a068c96b686bb0eacdf3f570d532981499b114);
 - [`bundle-files`](https://putout.cloudcmd.io/#/gist/7dd3bffa8e88f7542c84065f622b63d7/3b1e68e0babc3a72af947076ed9801c0034a096e);
 
-## Bundle all files to object
+### Bundle all files to object
 
 Traverse filesystem and create object that contains filename and file content:
 
@@ -54,11 +56,11 @@ const __filesystem = {
 };
 ```
 
-## IIFE
+### IIFE
 
 Most likely we need IIFE so couple bundles can be loaded on page simultaneously.
 
-## Result Example
+### Result Example
 
 ```js
 const __modules = {};
