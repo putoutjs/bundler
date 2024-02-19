@@ -1,3 +1,8 @@
+2024.02.19, v1.0.2
+
+fix:
+- 1cb74fe export: bundler -> bundle
+
 2024.02.19, v1.0.1
 
 fix:
