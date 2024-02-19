@@ -1,0 +1,9 @@
+2024.02.19, v1.0.1
+
+fix:
+- 375e409 readme: internals
+- 080b5df readme: Bundle -> Bundler
+
+feature:
+- a2caadd @putout/bundler: @putout/plugin-nodejs v11.0.0
+- 7ad6e51 @putout/bundler: add
