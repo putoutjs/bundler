@@ -1,0 +1,32 @@
+{
+    "check-coverage": true,
+    "all": true,
+    "exclude": [
+        "**/*.spec.*",
+        "**/fixture",
+        "test",
+        "**/debug.js",
+        "**/dialog.js",
+        "**/coverage",
+        "**/.*.*",
+        "**/*.d.ts",
+        "**/fixture.js",
+        "**/bin",
+        "**/choose.js",
+        "**/help.js",
+        "**/master.js",
+        "**/slave.js",
+        "**/run.js",
+        "**/spinner.js",
+        "**/menu.js",
+        "**/lint",
+        "**/convert/index.js",
+        "**/version.js",
+        "**/example",
+        "**/bundle/bundle.js"
+    ],
+    "branches": 100,
+    "lines": 100,
+    "functions": 100,
+    "statements": 100
+}

@@ -1,0 +1,14 @@
+{
+    "printer": "putout",
+    "rules": {
+        "filesystem/remove-files": ["on", {
+            "names": ["coverage"]
+        }],
+        "remove-console": "off",
+        "putout": "on"
+    },
+    "ignore": [
+        "!**/coverage",
+        "bundle.spec.js"
+    ]
+}
