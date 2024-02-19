@@ -9,6 +9,7 @@
     },
     "ignore": [
         "!**/coverage",
-        "bundle.spec.js"
+        "bundler.spec.js",
+        "bundle.js"
     ]
 }
