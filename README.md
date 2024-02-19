@@ -1,4 +1,4 @@
-# Bundle [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL] [![Coverage Status][CoverageIMGURL]][CoverageURL]
+# Bundler [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL] [![Coverage Status][CoverageIMGURL]][CoverageURL]
 
 [NPMURL]: https://npmjs.org/package/@putout/bundler "npm"
 [NPMIMGURL]: https://img.shields.io/npm/v/@putout/bundler.svg?style=flat&longCache=true
