@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      NAME: '@putout/bundler'
+      NAME: "@putout/bundler"
     strategy:
       matrix:
         node-version:
