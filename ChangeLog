@@ -1,3 +1,9 @@
+2024.02.22, v1.1.0
+
+feature:
+- 57efbc0 package: drop unused dependencies
+- 1ae4e71 bundler: improve support of external modules
+
 2024.02.19, v1.0.2
 
 fix:
