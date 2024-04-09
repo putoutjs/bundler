@@ -6,9 +6,6 @@
   "description": "Lint Filesystem with 🐊Putout",
   "homepage": "https://github.com/putoutjs/bundler#readme",
   "main": "./lib/bundler.js",
-  "bin": {
-    "bundler": "bin/bundler.js"
-  },
   "exports": {
     ".": "./lib/bundler.js"
   },
