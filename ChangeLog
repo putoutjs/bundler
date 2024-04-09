@@ -1,3 +1,10 @@
+2024.04.09, v1.1.1
+
+feature:
+- 6f4cd2d @putout/bundler: @putout/plugin-filesystem v5.0.0
+- a5c7da0 @putout/bundler: eslint v9.0.0
+- e138f20 @putout/bundler: eslint-plugin-n: drop
+
 2024.02.22, v1.1.0
 
 feature:
