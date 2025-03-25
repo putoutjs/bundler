@@ -38,7 +38,7 @@
     "chalk": "^5.3.0",
     "enquirer": "^2.4.1",
     "fullstore": "^3.0.0",
-    "ignore": "^5.2.4",
+    "ignore": "^7.0.3",
     "ora": "^8.0.1",
     "putout": "^35.0.0",
     "strip-ansi": "^7.1.0",
