@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/putoutjs/bundler.git"
+    "url": "git+https://github.com/putoutjs/bundler.git"
   },
   "scripts": {
     "wisdom": "madrun wisdom",

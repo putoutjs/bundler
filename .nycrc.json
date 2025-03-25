@@ -15,7 +15,8 @@
         "**/version.js",
         "**/example",
         "**/bundler.js",
-        "**/bundle.js"
+        "**/bundle.js",
+        "**/*.config.*"
     ],
     "branches": 100,
     "lines": 100,
