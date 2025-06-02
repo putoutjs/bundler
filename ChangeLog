@@ -1,3 +1,16 @@
+2025.06.02, v3.0.0
+
+feature:
+- 2cdd870 @putout/bundler: putout v40.3.0
+- 9383e65 @putout/bundler: estree-to-babel v11.0.3
+- 2b4793d @putout/bundler: eslint-plugin-putout v27.1.0
+- 162d7f6 @putout/bundler: @putout/processor-filesystem v7.0.1
+- 3eb81ec @putout/bundler: @putout/plugin-nodejs v16.4.0
+- f2eed36 @putout/bundler: @putout/plugin-filesystem v11.0.1
+- d4d3467 @putout/bundler: @putout/operator-filesystem v9.0.1
+- e9e899d @putout/bundler: @putout/engine-runner v25.0.3
+- 64dae36 @putout/bundler: drop support of node < 20
+
 2025.03.25, v2.0.0
 
 feature:
