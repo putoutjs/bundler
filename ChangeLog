@@ -1,3 +1,16 @@
+2025.12.04, v3.0.1
+
+feature:
+- a295a57 @putout/bundler: putout v41.0.0
+- 640f468 @putout/bundler: ora v9.0.0
+- 0252347 @putout/bundler: eslint-plugin-putout v29.0.2
+- 328b6db @putout/bundler: @putout/test v14.1.0
+- a60b298 @putout/bundler: @putout/plugin-nodejs v17.7.1
+- a334414 @putout/bundler: @putout/plugin-filesystem v12.0.0
+- 6f6d5a1 @putout/bundler: @putout/operator-filesystem v10.0.0
+- 3ee8a33 @putout/bundler: @putout/engine-runner v26.0.2
+- 01e3be5 @putout/bundler: @putout/cli-choose v3.0.0
+
 2025.06.02, v3.0.0
 
 feature:
