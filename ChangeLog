@@ -1,3 +1,14 @@
+2026.01.03, v4.0.0
+
+feature:
+- a30f724 @putout/bundler: drop support of node < 22
+- 588a73c @putout/bundler: try-to-catch v4.0.2
+- fcc3fe3 @putout/bundler: try-catch v4.0.6
+- 5016d56 @putout/bundler: madrun v12.0.0
+- 302d22e @putout/bundler: @putout/test v15.0.0
+- f531fc5 @putout/bundler: @putout/plugin-nodejs v18.9.0
+- 66b115f @putout/bundler: @putout/engine-runner v27.0.0
+
 2025.12.04, v3.0.1
 
 feature:
