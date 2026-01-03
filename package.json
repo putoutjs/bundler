@@ -29,7 +29,7 @@
   "dependencies": {
     "@putout/cli-choose": "^3.0.0",
     "@putout/cli-filesystem": "^2.0.1",
-    "@putout/engine-runner": "^26.0.2",
+    "@putout/engine-runner": "^27.0.0",
     "@putout/operator-filesystem": "^10.0.0",
     "@putout/operator-json": "^2.0.0",
     "@putout/plugin-filesystem": "^12.0.0",
