@@ -27,11 +27,9 @@
     "report": "madrun report"
   },
   "dependencies": {
-    "@putout/cli-choose": "^3.0.0",
-    "@putout/cli-filesystem": "^2.0.1",
     "@putout/engine-runner": "^27.0.0",
     "@putout/operator-filesystem": "^10.0.0",
-    "@putout/operator-json": "^2.0.0",
+    "@putout/operator-json": "^3.2.0",
     "@putout/plugin-filesystem": "^12.0.0",
     "@putout/plugin-nodejs": "^18.9.0",
     "@putout/processor-filesystem": "^7.0.1",
@@ -58,7 +56,6 @@
     "c8": "^10.1.3",
     "eslint": "^9.0.0",
     "eslint-plugin-putout": "^29.0.2",
-    "estree-to-babel": "^11.0.3",
     "just-kebab-case": "^4.2.0",
     "madrun": "^12.0.0",
     "montag": "^1.0.0",
