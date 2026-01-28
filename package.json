@@ -35,7 +35,7 @@
     "@putout/processor-filesystem": "^7.0.1",
     "chalk": "^5.3.0",
     "enquirer": "^2.4.1",
-    "fullstore": "^3.0.0",
+    "fullstore": "^4.0.0",
     "ignore": "^7.0.3",
     "ora": "^9.0.0",
     "putout": "^41.0.0",
