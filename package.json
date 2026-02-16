@@ -32,7 +32,7 @@
     "@putout/operator-json": "^3.2.0",
     "@putout/plugin-filesystem": "^13.0.0",
     "@putout/plugin-nodejs": "^20.0.0",
-    "@putout/processor-filesystem": "^7.0.1",
+    "@putout/processor-filesystem": "^8.0.1",
     "chalk": "^5.3.0",
     "enquirer": "^2.4.1",
     "fullstore": "^4.0.0",
