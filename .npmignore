@@ -1,11 +1,14 @@
-.*
 *.spec.js
-test
-yarn-error.log
+*.config.*
+*.log
+*.loc
 
+.*
+
+fixture.js
+filesystem.red
+
+test
 coverage
 fixture
-fixture.js
 rules
-filesystem.red
-*.config.*
