@@ -38,7 +38,7 @@
     "fullstore": "^4.0.0",
     "ignore": "^7.0.3",
     "ora": "^9.0.0",
-    "putout": "^41.0.0",
+    "putout": "^42.0.1",
     "strip-ansi": "^7.1.0",
     "try-to-catch": "^4.0.2"
   },
